@@ -774,8 +774,8 @@ msgid "Anybody can interact"
 msgstr "Tá gach duine in ann idirghníomhú leis"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -847,7 +847,7 @@ msgid "Appeal this decision"
 msgstr "Déan achomharc i gcoinne an chinnidh seo"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1522,7 +1522,7 @@ msgstr "Laghdaigh an liosta úsáideoirí"
 msgid "Collapses list of users for a given notification"
 msgstr "Laghdaíonn sé seo liosta na n-úsáideoirí le haghaidh an fhógra sin"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Mód datha"
 
@@ -1903,8 +1903,8 @@ msgstr "Cruthaíonn an pobal fothaí chun eispéiris nua a chur ar fáil duit, a
 msgid "Customize who can interact with this post."
 msgstr "Cé atá in ann idirghníomhú leis an bpostáil seo?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Dorcha"
 
@@ -1912,7 +1912,7 @@ msgstr "Dorcha"
 msgid "Dark mode"
 msgstr "Modh dorcha"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Téama dorcha"
 
@@ -1938,7 +1938,7 @@ msgstr "Dífhabhtaigh Modhnóireacht"
 msgid "Debug panel"
 msgstr "Painéal dífhabhtaithe"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Réamhshocrú"
 
@@ -2080,7 +2080,7 @@ msgstr "Dialóg: cé atá in ann idirghníomhú leis an bpostáil seo"
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Ar mhaith leat rud éigin a rá?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Breacdhorcha"
 
@@ -3063,11 +3063,11 @@ msgstr "Leanann sé/sí thú"
 msgid "Follows You"
 msgstr "Leanann sé/sí thú"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Clófhoireann"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Clómhéid"
 
@@ -3088,7 +3088,7 @@ msgstr "De bharr cúrsaí slándála, ní bheidh tú in ann breathnú air seo ar
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Ar chúiseanna slándála, ní bheidh tú in ann é seo a fheiceáil arís. Má chailleann tú an pasfhocal seo beidh ort ceann nua a chruthú."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Don eispéireas is fearr, molaimid an cló téama."
 
@@ -3668,7 +3668,7 @@ msgstr "Socruithe teanga"
 msgid "Languages"
 msgstr "Teangacha"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Níos Mó"
 
@@ -3755,7 +3755,7 @@ msgstr "Socraímis do phasfhocal arís!"
 msgid "Let's go!"
 msgstr "Ar aghaidh linn!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Sorcha"
 
@@ -5909,7 +5909,7 @@ msgstr "Filleann sé seo abhaile"
 msgid "Returns to previous page"
 msgstr "Filleann sé seo ar an leathanach roimhe seo"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6623,7 +6623,7 @@ msgstr "Ná bac leis"
 msgid "Skip this flow"
 msgstr "Ná bac leis an bpróiseas seo"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Níos Lú"
 
@@ -6824,8 +6824,8 @@ msgstr "Athraigh an cuntas"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Athraíonn sé seo an cuntas beo"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Córas"
 
@@ -7045,7 +7045,7 @@ msgstr "Bogadh ár dTéarmaí Seirbhíse go dtí"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "D'úsáid tú cód dearbhaithe neamhbhailí. Deimhnigh gur bhain tú úsáid as an nasc ceart, nó iarr ceann nua."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Téama"
 

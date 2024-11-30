@@ -775,8 +775,8 @@ msgid "Anybody can interact"
 msgstr "Iedereen kan reageren"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -848,7 +848,7 @@ msgid "Appeal this decision"
 msgstr "Bezwaar maken tegen deze beslissing"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1519,7 +1519,7 @@ msgstr "Gebruikerslijst inklappen"
 msgid "Collapses list of users for a given notification"
 msgstr "Klapt de gebruikerslijst voor een bepaalde melding in"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Kleurmodus"
 
@@ -1900,8 +1900,8 @@ msgstr "Gepersonaliseerde feeds die door de gemeenschap zijn gemaakt bieden je n
 msgid "Customize who can interact with this post."
 msgstr "Pas aan wie kan reageren op dit bericht."
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Donker"
 
@@ -1909,7 +1909,7 @@ msgstr "Donker"
 msgid "Dark mode"
 msgstr "Donkere modus"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Donker thema"
 
@@ -1935,7 +1935,7 @@ msgstr "Fouten opsporen in moderatie"
 msgid "Debug panel"
 msgstr "Debugpaneel"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Standaard"
 
@@ -2077,7 +2077,7 @@ msgstr "Dialoog: aanpassen wie op dit bericht mag reageren"
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Wilde je nog iets zeggen?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Dimmen"
 
@@ -3055,11 +3055,11 @@ msgstr "Volgt jou"
 msgid "Follows You"
 msgstr "Volgt jou"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Lettertype"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Lettergrootte"
 
@@ -3080,7 +3080,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Om beveiligingsredenen kun je dit niet meer bekijken. Je moet een nieuw wachtwoord genereren als je dit wachtwoord kwijtraakt."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Voor de beste ervaring raden we je aan het themalettertype te gebruiken."
 
@@ -3656,7 +3656,7 @@ msgstr "Taalinstellingen"
 msgid "Languages"
 msgstr "Talen"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Groter"
 
@@ -3743,7 +3743,7 @@ msgstr "Laten we je wachtwoord opnieuw instellen!"
 msgid "Let's go!"
 msgstr "Laten we gaan!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Licht"
 
@@ -5881,7 +5881,7 @@ msgstr "Terug naar de startpagina"
 msgid "Returns to previous page"
 msgstr "Terug naar de vorige pagina"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6591,7 +6591,7 @@ msgstr "Overslaan"
 msgid "Skip this flow"
 msgstr "Deze flow overslaan"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Kleiner"
 
@@ -6788,8 +6788,8 @@ msgstr "Van account wisselen"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Verandert het account waarop je bent aangemeld"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Systeem"
 
@@ -7009,7 +7009,7 @@ msgstr "De Servicevoorwaarden zijn verplaatst naar"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "De verificatiecode die je hebt opgegeven is ongeldig. Controleer of je de juiste verificatielink hebt gebruikt of vraag een nieuwe aan."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Thema"
 

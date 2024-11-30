@@ -783,8 +783,8 @@ msgid "Anybody can interact"
 msgstr "Любой может взаимодействовать"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -856,7 +856,7 @@ msgid "Appeal this decision"
 msgstr "Обжаловать это решение"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1563,7 +1563,7 @@ msgstr "Свернуть список пользователей"
 msgid "Collapses list of users for a given notification"
 msgstr "Сворачивает список пользователей для данного уведомления"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr ""
 
@@ -1949,8 +1949,8 @@ msgstr "Пользовательские ленты, созданные сооб
 msgid "Customize who can interact with this post."
 msgstr "Настройте, кто может взаимодействовать с этим сообщением."
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Черная"
 
@@ -1958,7 +1958,7 @@ msgstr "Черная"
 msgid "Dark mode"
 msgstr "Темный режим"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Темная тема"
 
@@ -1984,7 +1984,7 @@ msgstr "Настройка модерации"
 msgid "Debug panel"
 msgstr "Панель отладки"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr ""
 
@@ -2126,7 +2126,7 @@ msgstr "Диалог: настройте, кто может взаимодейс
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Вы хотели что-то написать?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Тусклая"
 
@@ -3121,11 +3121,11 @@ msgstr "Подписаны на вас"
 msgid "Follows You"
 msgstr "Подписаны на вас"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr ""
 
@@ -3146,7 +3146,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "По соображениям безопасности этот пароль отображается только один раз. Если вы потеряете этот пароль, вам нужно будет сгенерировать новый."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr ""
 
@@ -3746,7 +3746,7 @@ msgstr "Настройка языков"
 msgid "Languages"
 msgstr "Языки"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr ""
 
@@ -3833,7 +3833,7 @@ msgstr "Давайте восстановим ваш пароль!"
 msgid "Let's go!"
 msgstr "Взлетаем!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Светлая"
 
@@ -6011,7 +6011,7 @@ msgstr "Возвращает на главную страницу"
 msgid "Returns to previous page"
 msgstr "Возвращает к предыдущей странице"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6773,7 +6773,7 @@ msgstr "Пропустить"
 msgid "Skip this flow"
 msgstr "Пропустить этот процесс"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr ""
 
@@ -6986,8 +6986,8 @@ msgstr "Переключить учетную запись"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Переключает учетную запись"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Системное"
 
@@ -7223,7 +7223,7 @@ msgstr "Условия Использования перенесены в"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "Вы ввели неверный код подтверждения. Пожалуйста, убедитесь, что перешли по правильной ссылке подтверждения, или запросите новую."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr ""
 

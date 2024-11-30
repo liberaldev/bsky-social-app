@@ -914,8 +914,8 @@ msgid "Anybody can interact"
 msgstr "Siapa saja dapat berinteraksi"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -991,7 +991,7 @@ msgid "Appeal this decision"
 msgstr "Ajukan banding atas keputusan ini"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1787,7 +1787,7 @@ msgstr "Ciutkan daftar pengguna"
 msgid "Collapses list of users for a given notification"
 msgstr "Menciutkan daftar pengguna untuk notifikasi tertentu"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Mode warna"
 
@@ -2213,8 +2213,8 @@ msgstr "Feed kustom yang dibangun oleh komunitas memberikan pengalaman baru dan 
 msgid "Customize who can interact with this post."
 msgstr "Sesuaikan siapa yang dapat berinteraksi dengan postingan ini."
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Gelap"
 
@@ -2222,7 +2222,7 @@ msgstr "Gelap"
 msgid "Dark mode"
 msgstr "Mode gelap"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Tema gelap"
 
@@ -2252,7 +2252,7 @@ msgstr "Debug Moderasi"
 msgid "Debug panel"
 msgstr "Panel awakutu"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Standar"
 
@@ -2398,7 +2398,7 @@ msgstr "Dialog: sesuaikan siapa saja yang dapat berinteraksi dengan postingan in
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Apakah Anda ingin mengatakan sesuatu?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Redup"
 
@@ -3516,11 +3516,11 @@ msgstr "Mengikuti Anda"
 msgid "Follows You"
 msgstr "Mengikuti Anda"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Font"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Ukuran font"
 
@@ -3541,7 +3541,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Untuk alasan keamanan, Anda tidak akan dapat melihat ini lagi. Jika Anda lupa kata sandi ini, Anda harus membuat yang baru."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Untuk pengalaman terbaik, kami sarankan menggunakan font tema."
 
@@ -4187,7 +4187,7 @@ msgstr "Pengaturan Bahasa"
 msgid "Languages"
 msgstr "Bahasa"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Lebih besar"
 
@@ -4278,7 +4278,7 @@ msgstr "Reset kata sandi Anda!"
 msgid "Let's go!"
 msgstr "Ayo!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Terang"
 
@@ -6633,7 +6633,7 @@ msgstr "Kembali ke beranda"
 msgid "Returns to previous page"
 msgstr "Kembali ke halaman sebelumnya"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -7488,7 +7488,7 @@ msgstr "Lewati"
 msgid "Skip this flow"
 msgstr "Lewati tahap ini"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Lebih kecil"
 
@@ -7734,8 +7734,8 @@ msgstr "Beralih Akun"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Alihkan akun yang Anda gunakan untuk masuk"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Sistem"
 
@@ -7987,7 +7987,7 @@ msgstr "Ketentuan Layanan telah dipindahkan ke"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "Kode verifikasi yang Anda berikan tidak valid. Pastikan Anda telah menggunakan tautan verifikasi yang benar atau minta yang baru."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Tema"
 

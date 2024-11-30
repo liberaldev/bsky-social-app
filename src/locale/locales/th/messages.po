@@ -909,8 +909,8 @@ msgid "Anybody can interact"
 msgstr "ทุกคนสามารถมีส่วนร่วมได้"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -986,7 +986,7 @@ msgid "Appeal this decision"
 msgstr "อุทธรณ์การตัดสินใจนี้"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1782,7 +1782,7 @@ msgstr "ย่อลิสต์ผู้ใช้"
 msgid "Collapses list of users for a given notification"
 msgstr "ย่อลิสต์ผู้ใช้สำหรับการแจ้งเตือนที่กำหนด"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "โหมดสี"
 
@@ -2208,8 +2208,8 @@ msgstr "ฟีดแบบกำหนดเองที่สร้างโด
 msgid "Customize who can interact with this post."
 msgstr "กำหนดผู้ที่สามารถโต้ตอบกับโพสต์นี้ได้"
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "มืด"
 
@@ -2217,7 +2217,7 @@ msgstr "มืด"
 msgid "Dark mode"
 msgstr "โหมดมืด"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "ธีมมืด"
 
@@ -2247,7 +2247,7 @@ msgstr ""
 msgid "Debug panel"
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "ค่าเริ่มตัน"
 
@@ -2393,7 +2393,7 @@ msgstr "กล่องโต้ตอบ: ปรับว่าใครสา�
 #~ msgid "Did you want to say anything?"
 #~ msgstr "คุณต้องการพูดอะไรไหม?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "สว่าง"
 
@@ -3503,11 +3503,11 @@ msgstr "ติดตามคุณ"
 msgid "Follows You"
 msgstr "ติดตามคุณ"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "แบบอักษร"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "ขนาดแบบอักษร"
 
@@ -3528,7 +3528,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "ถ้าทำแล้ว คุณจะไม่สามารถดูข้อมูลนี้ได้อีก เพื่อความปลอดภัยของคุณ ถ้าคุณลืมรหัสผ่านคุณต้องสร้างใหม่โดยไม่ใช้รหัสเดิม"
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "เพื่อประสบการที่ดีของคุณ เราแนะนำให้ใช้ฟอนต์ธีม"
 
@@ -4174,7 +4174,7 @@ msgstr "ตั้งค่าภาษา"
 msgid "Languages"
 msgstr "ภาษา"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "ใหญ่"
 
@@ -4265,7 +4265,7 @@ msgstr "ให้รหัสผ่านของคุณถูกรีเซ
 msgid "Let's go!"
 msgstr "ไปกันเล้ยยยยย!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "แสง"
 
@@ -6620,7 +6620,7 @@ msgstr "กลับไปยังหน้าแรก"
 msgid "Returns to previous page"
 msgstr "กลับไปยังหน้าก่อนหน้า"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -7475,7 +7475,7 @@ msgstr "ข้าม"
 msgid "Skip this flow"
 msgstr "ข้ามขั้นตอนนี้"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "เล็ก"
 
@@ -7721,8 +7721,8 @@ msgstr "เปลี่ยนบัญชี"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "เปลี่ยนบัญชีที่คุณเข้าสู่ระบบ"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "ระบบ"
 
@@ -7974,7 +7974,7 @@ msgstr "เงื่อนไขการให้บริการได้ถ
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "รหัสยืนยันที่คุณให้มานั้นไม่ถูกต้อง กรุณาตรวจสอบให้แน่ใจว่าคุณได้ใช้ลิงก์ยืนยันที่ถูกต้องหรือขอรหัสใหม่อีกครั้ง"
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "ธีม"
 

@@ -802,8 +802,8 @@ msgid "Anybody can interact"
 msgstr "Cualsequiera puede interactuar"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -878,7 +878,7 @@ msgid "Appeal this decision"
 msgstr "Apelar esta decisión"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1585,7 +1585,7 @@ msgstr "Comprimir la lista d'usuarios"
 msgid "Collapses list of users for a given notification"
 msgstr "Comprimir la lista d'usuarios pa una notificación en particular"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Modo de color"
 
@@ -1981,8 +1981,8 @@ msgstr "Las canals personalizadas creadas per la comunidat te brindan nuevas exp
 msgid "Customize who can interact with this post."
 msgstr "Personaliza quí puede interactuar con esta publicación."
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Fosco"
 
@@ -1990,7 +1990,7 @@ msgstr "Fosco"
 msgid "Dark mode"
 msgstr "Modo Fosco"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Tema fosco"
 
@@ -2016,7 +2016,7 @@ msgstr "Moderacion de depuración"
 msgid "Debug panel"
 msgstr "Panel de depuración"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Per Defecto"
 
@@ -2161,7 +2161,7 @@ msgstr "Achustar quí puede interactuar con esta publicación"
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Quiers decir bella cosa?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Dim"
 
@@ -3163,11 +3163,11 @@ msgstr "Te sigue"
 msgid "Follows You"
 msgstr "Te sigue"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Fuent"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Grandaria de fuent"
 
@@ -3188,7 +3188,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Per razons de seguranza, no podrás tornar a veyer-la de nuevo. Si pierdes esta clau, habrás de chenerar-ne una nueva."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Pa una millor experiencia, recomendamos que uses la fuent d'o tema."
 
@@ -3773,7 +3773,7 @@ msgstr "Achustes d'Idiomas"
 msgid "Languages"
 msgstr "Idiomas"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Mas gran"
 
@@ -3860,7 +3860,7 @@ msgstr "Imos a restablir la tuya clau!"
 msgid "Let's go!"
 msgstr "Imos!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Liuchero"
 
@@ -6042,7 +6042,7 @@ msgstr "Tornar ta la pachina d'inicio"
 msgid "Returns to previous page"
 msgstr "Tornar ta la pachina anterior"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6800,7 +6800,7 @@ msgstr "Blincar"
 msgid "Skip this flow"
 msgstr "Blincar este fluxo"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Mas chicot"
 
@@ -7006,8 +7006,8 @@ msgstr "Cambiar a unatra cuenta"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Cambia la cuenta en a cual has iniciau sesión"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Sistema"
 
@@ -7245,7 +7245,7 @@ msgstr "Las condicions de servicio s'han tresladau a"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "Lo codigo de verificación que has proporcionau ye invalido. Per favor, asegura-te d'haber utilizau lo vinclo de verificación correcto u solicita-ne un nuevo."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Tema"
 

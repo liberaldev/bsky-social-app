@@ -959,8 +959,8 @@ msgid "Anybody can interact"
 msgstr "Qualsevol pot interactuar"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -1052,7 +1052,7 @@ msgstr "Apel·la aquesta decisió"
 #~ msgstr "Apel·la aquesta decisió."
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1893,7 +1893,7 @@ msgstr "Plega la llista d'usuaris"
 msgid "Collapses list of users for a given notification"
 msgstr "Plega la llista d'usuaris per una notificació concreta"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Mode de color"
 
@@ -2361,8 +2361,8 @@ msgstr "Personalitza qui pot interactuar amb aquesta publicació."
 #~ msgid "Danger Zone"
 #~ msgstr "Zona de perill"
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Fosc"
 
@@ -2370,7 +2370,7 @@ msgstr "Fosc"
 msgid "Dark mode"
 msgstr "Mode fosc"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Tema fosc"
 
@@ -2400,7 +2400,7 @@ msgstr "Moderació de depuració"
 msgid "Debug panel"
 msgstr "Panell de depuració"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Per defecte"
 
@@ -2558,7 +2558,7 @@ msgstr "Diàleg: ajusta qui pot interactuar amb aquesta publicació"
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Vols dir alguna cosa?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Tènue"
 
@@ -3724,11 +3724,11 @@ msgstr "Et segueix"
 msgid "Follows You"
 msgstr "Et segueix"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Font"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Moda de la font"
 
@@ -3749,7 +3749,7 @@ msgstr "Per motius de seguretat, no podràs tornar a veure això. Si perds aques
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Per motius de seguretat no podràs tornar-la a veure. Si perds aquesta contrasenya necessitaràs generar-ne una de nova."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Per obtenir la millor experiència, et recomanem utilitzar el tipus de lletra del tema."
 
@@ -4469,7 +4469,7 @@ msgstr "Configuració d'idioma"
 msgid "Languages"
 msgstr "Idiomes"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Més gran"
 
@@ -4573,7 +4573,7 @@ msgstr "Som-hi!"
 #~ msgid "Library"
 #~ msgstr "Biblioteca"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Clar"
 
@@ -7111,7 +7111,7 @@ msgstr "Torna a la pàgina anterior"
 #~ msgid "SANDBOX. Posts and accounts are not permanent."
 #~ msgstr "ENTORN DE PROVES. Les publicacions i els comptes no són permanents."
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -8076,7 +8076,7 @@ msgstr "Salta aquest pas"
 msgid "Skip this flow"
 msgstr "Salta aquest flux"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Més petit"
 
@@ -8346,8 +8346,8 @@ msgstr "Canvia el compte"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Canvia en compte amb el que tens iniciada la sessió"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Sistema"
 
@@ -8607,7 +8607,7 @@ msgstr "Les condicions del servei han estat traslladades a"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "El codi de verificació que has proporcionat no és vàlid. Assegura't que has utilitzat l'enllaç de verificació correcte o sol·licita'n un de nou."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Tema"
 

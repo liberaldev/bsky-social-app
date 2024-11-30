@@ -946,8 +946,8 @@ msgid "Anybody can interact"
 msgstr ""
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -1035,7 +1035,7 @@ msgstr "Bu karara itiraz et"
 #~ msgstr "Bu karara itiraz et."
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1872,7 +1872,7 @@ msgstr ""
 msgid "Collapses list of users for a given notification"
 msgstr "Belirli bir bildirim için kullanıcı listesini daraltır"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr ""
 
@@ -2335,8 +2335,8 @@ msgstr "Topluluk tarafından oluşturulan özel beslemeler size yeni deneyimler 
 msgid "Customize who can interact with this post."
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Karanlık"
 
@@ -2344,7 +2344,7 @@ msgstr "Karanlık"
 msgid "Dark mode"
 msgstr "Karanlık mod"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr ""
 
@@ -2374,7 +2374,7 @@ msgstr ""
 msgid "Debug panel"
 msgstr "Hata ayıklama paneli"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr ""
 
@@ -2524,7 +2524,7 @@ msgstr ""
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Bir şey söylemek istediniz mi?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Karart"
 
@@ -3678,11 +3678,11 @@ msgstr "Sizi takip ediyor"
 msgid "Follows You"
 msgstr "Sizi Takip Ediyor"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr ""
 
@@ -3703,7 +3703,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Güvenlik nedeniyle, bunu tekrar göremezsiniz. Bu şifreyi kaybederseniz, yeni bir tane oluşturmanız gerekecek."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr ""
 
@@ -4412,7 +4412,7 @@ msgstr "Dil Ayarları"
 msgid "Languages"
 msgstr "Diller"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr ""
 
@@ -4515,7 +4515,7 @@ msgstr "Hadi gidelim!"
 #~ msgid "Library"
 #~ msgstr "Kütüphane"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Açık"
 
@@ -6977,7 +6977,7 @@ msgstr ""
 #~ msgid "SANDBOX. Posts and accounts are not permanent."
 #~ msgstr "KUM KUTUSU. Gönderiler ve hesaplar kalıcı değildir."
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -7922,7 +7922,7 @@ msgstr "Atla"
 msgid "Skip this flow"
 msgstr "Bu akışı atla"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr ""
 
@@ -8192,8 +8192,8 @@ msgstr "Hesap Değiştir"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Giriş yaptığınız hesabı değiştirir"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Sistem"
 
@@ -8445,7 +8445,7 @@ msgstr "Hizmet Şartları taşındı"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr ""
 

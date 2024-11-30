@@ -775,8 +775,8 @@ msgid "Anybody can interact"
 msgstr "Bárki kapcsolatba léphet"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -845,7 +845,7 @@ msgid "Appeal this decision"
 msgstr "Döntés fellebbezése"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1508,7 +1508,7 @@ msgstr "Lista összecsukása"
 msgid "Collapses list of users for a given notification"
 msgstr "Egy értesítés felhasználólistájának összecsukása"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Színmód"
 
@@ -1883,8 +1883,8 @@ msgstr "A közösség által épített egyéni hírfolyamok új élményekkel ru
 msgid "Customize who can interact with this post."
 msgstr "Add meg, hogy ki léphet kapcsolatba ezzel a bejegyzéssel!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Sötét"
 
@@ -1892,7 +1892,7 @@ msgstr "Sötét"
 msgid "Dark mode"
 msgstr "Sötét mód"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Sötét téma"
 
@@ -1917,7 +1917,7 @@ msgstr "Moderálási hibakeresés"
 msgid "Debug panel"
 msgstr "Hibakeresési panel"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Alapértelmezett"
 
@@ -2056,7 +2056,7 @@ msgstr "Párbeszédablak: A bejegyzés kapcsolatbalépési jogosultságainak tes
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Szeretnél mondani valamit?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Félhomályos"
 
@@ -3021,11 +3021,11 @@ msgstr "Követ Téged"
 msgid "Follows You"
 msgstr "Követ Téged"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Betűtípus"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Betűméret"
 
@@ -3045,7 +3045,7 @@ msgstr "Biztonsági okokból ezt többé nem tekintheted meg. Ha elveszted ezt a
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Biztonsági okokból ezt többé nem tekintheted meg. Ha elveszted ezt a jelszót, akkor újat kell létrehoznod."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "A legjobb élmény érdekében a témabetűtípus használatát javasoljuk."
 
@@ -3623,7 +3623,7 @@ msgstr "Nyelvi beállítások"
 msgid "Languages"
 msgstr "Nyelvek"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Nagyobb"
 
@@ -3710,7 +3710,7 @@ msgstr "Állítsuk helyre a jelszavad!"
 msgid "Let's go!"
 msgstr "Gyerünk!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Világos"
 
@@ -5822,7 +5822,7 @@ msgstr "Vissza a kezdőlapra"
 msgid "Returns to previous page"
 msgstr "Vissza az előző oldalra"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6528,7 +6528,7 @@ msgstr "Kihagyás"
 msgid "Skip this flow"
 msgstr "Folyamat kihagyása"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Kisebb"
 
@@ -6726,8 +6726,8 @@ msgstr "Fiókváltás"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "A jelenleg bejelentkezett fiók átváltása egy másikra"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Rendszer"
 
@@ -6949,7 +6949,7 @@ msgstr "A felhasználási feltételek elköltöztek:"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "A megadott ellenőrzőkód érvénytelen. Nézd meg, hogy helyes kódot adtál-e meg vagy kérj újat!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Téma"
 

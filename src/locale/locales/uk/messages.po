@@ -914,8 +914,8 @@ msgid "Anybody can interact"
 msgstr ""
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -991,7 +991,7 @@ msgid "Appeal this decision"
 msgstr ""
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1787,7 +1787,7 @@ msgstr ""
 msgid "Collapses list of users for a given notification"
 msgstr "Згортає список користувачів для даного сповіщення"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr ""
 
@@ -2213,8 +2213,8 @@ msgstr "Кастомні стрічки, створені спільнотою, 
 msgid "Customize who can interact with this post."
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Темна"
 
@@ -2222,7 +2222,7 @@ msgstr "Темна"
 msgid "Dark mode"
 msgstr "Темний режим"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr ""
 
@@ -2252,7 +2252,7 @@ msgstr "Налагодження модерації"
 msgid "Debug panel"
 msgstr "Панель налагодження"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr ""
 
@@ -2398,7 +2398,7 @@ msgstr ""
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Порожній пост. Ви хотіли щось написати?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Тьмяний"
 
@@ -3516,11 +3516,11 @@ msgstr "Підписаний(-на) на вас"
 msgid "Follows You"
 msgstr "Підписаний(-на) на вас"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr ""
 
@@ -3541,7 +3541,7 @@ msgstr ""
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "З міркувань безпеки цей пароль відображається лише один раз. Якщо ви втратите цей пароль, вам потрібно буде згенерувати новий."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr ""
 
@@ -4187,7 +4187,7 @@ msgstr "Налаштування мов"
 msgid "Languages"
 msgstr "Мови"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr ""
 
@@ -4278,7 +4278,7 @@ msgstr "Давайте відновимо ваш пароль!"
 msgid "Let's go!"
 msgstr "Злітаємо!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Світла"
 
@@ -6633,7 +6633,7 @@ msgstr "Повертає до головної сторінки"
 msgid "Returns to previous page"
 msgstr "Повертає до попередньої сторінки"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -7488,7 +7488,7 @@ msgstr "Пропустити"
 msgid "Skip this flow"
 msgstr "Пропустити цей процес"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr ""
 
@@ -7734,8 +7734,8 @@ msgstr "Перемикнути обліковий запис"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Переключає обліковий запис"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Системне"
 
@@ -7987,7 +7987,7 @@ msgstr "Умови Використання перенесено до"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr ""
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr ""
 

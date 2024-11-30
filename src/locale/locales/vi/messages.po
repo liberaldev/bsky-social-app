@@ -775,8 +775,8 @@ msgid "Anybody can interact"
 msgstr "Mọi người có thể tương tác"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -848,7 +848,7 @@ msgid "Appeal this decision"
 msgstr "Kháng nghị quyết định này"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1523,7 +1523,7 @@ msgstr "Thu gọn danh sách người dung"
 msgid "Collapses list of users for a given notification"
 msgstr "Thu gọn danh sách người dùng cho một thông báo cụ thể"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "Chế độ màu"
 
@@ -1904,8 +1904,8 @@ msgstr "Các bảng tin từ cộng đồng mang lại cho bạn những trải 
 msgid "Customize who can interact with this post."
 msgstr "Tùy chỉnh ai có thể tương tác với bài viết này."
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "Tối"
 
@@ -1913,7 +1913,7 @@ msgstr "Tối"
 msgid "Dark mode"
 msgstr "Chế độ tối"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "Chế độ tối"
 
@@ -1939,7 +1939,7 @@ msgstr "Gỡ lỗi kiểm duyệt"
 msgid "Debug panel"
 msgstr "Bảng gỡ lỗi"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "Mặc định"
 
@@ -2081,7 +2081,7 @@ msgstr "Hộp thoại: điều chỉnh ai có thể tương tác với bài vi�
 #~ msgid "Did you want to say anything?"
 #~ msgstr "Có phải bạn muốn nói gì đó?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "Mờ"
 
@@ -3064,11 +3064,11 @@ msgstr "Theo dõi bạn"
 msgid "Follows You"
 msgstr "Theo dõi bạn"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "Phông chữ"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "Kích cỡ phông chữ"
 
@@ -3089,7 +3089,7 @@ msgstr "Vì lý do bảo mật, bạn sẽ không thể xem lại trang này. N�
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "Vì lý do bảo mật, bạn sẽ không thể xem lại trang này. Nếu bạn làm mất mật khẩu này, bạn sẽ cần tạo một mật khẩu mới."
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "Chúng tôi khuyến nghị sử dụng phông chữ chủ đề để có trải nghiệm tốt nhất."
 
@@ -3669,7 +3669,7 @@ msgstr "Cài đặt ngôn ngữ"
 msgid "Languages"
 msgstr "Ngôn ngữ"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "Lớn hơn"
 
@@ -3756,7 +3756,7 @@ msgstr "Cùng đặt lại mật khẩu của bạn nào!"
 msgid "Let's go!"
 msgstr "Bắt đầu nào!"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "Sáng"
 
@@ -5910,7 +5910,7 @@ msgstr "Trở về trang chủ"
 msgid "Returns to previous page"
 msgstr "Trở về trang trước"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -6624,7 +6624,7 @@ msgstr "Bỏ qua"
 msgid "Skip this flow"
 msgstr "Bỏ qua quy trình này"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "Nhỏ hơn"
 
@@ -6825,8 +6825,8 @@ msgstr "Chuyển tài khoản"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "Chuyển tài khoản bạn đang đăng nhập sang"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "Hệ thống"
 
@@ -7046,7 +7046,7 @@ msgstr "Điều khoản dịch vụ đã được chuyển đến"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "Mã xác minh bạn cung cấp là không hợp lệ. Vui lòng chắc chắn rằng bạn đã sử dụng đúng liên kết xác mình hoặc yêu cầu một liên kết mới."
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "Chế độ"
 

@@ -840,8 +840,8 @@ msgid "Anybody can interact"
 msgstr "कोई भी संपर्क कर सकता है"
 
 #: src/Navigation.tsx:370
-#: src/screens/Settings/AppearanceSettings.tsx:188
-#: src/screens/Settings/AppearanceSettings.tsx:191
+#: src/screens/Settings/AppearanceSettings.tsx:192
+#: src/screens/Settings/AppearanceSettings.tsx:195
 msgid "App Icon"
 msgstr ""
 
@@ -913,7 +913,7 @@ msgid "Appeal this decision"
 msgstr "इस निर्णय पर अपील करें"
 
 #: src/Navigation.tsx:330
-#: src/screens/Settings/AppearanceSettings.tsx:100
+#: src/screens/Settings/AppearanceSettings.tsx:104
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -1645,7 +1645,7 @@ msgstr "उपयोगकर्ताओं की सूची को सं�
 msgid "Collapses list of users for a given notification"
 msgstr "किसी अधिसूचना के उपयोगकर्ताओं की सूची को संक्षिप्त करता है"
 
-#: src/screens/Settings/AppearanceSettings.tsx:104
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "Color mode"
 msgstr "रंग मोड"
 
@@ -2081,8 +2081,8 @@ msgstr "चुनें कि इस पोस्ट से कौन संप
 #~ msgid "Danger Zone"
 #~ msgstr "ख़तरा क्षेत्र"
 
-#: src/screens/Settings/AppearanceSettings.tsx:116
-#: src/screens/Settings/AppearanceSettings.tsx:137
+#: src/screens/Settings/AppearanceSettings.tsx:120
+#: src/screens/Settings/AppearanceSettings.tsx:141
 msgid "Dark"
 msgstr "अँधेरा"
 
@@ -2090,7 +2090,7 @@ msgstr "अँधेरा"
 msgid "Dark mode"
 msgstr "अँधेरा मोड"
 
-#: src/screens/Settings/AppearanceSettings.tsx:129
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dark theme"
 msgstr "अँधेरा थीम"
 
@@ -2120,7 +2120,7 @@ msgstr "मॉडरेशन डिबग करें"
 msgid "Debug panel"
 msgstr "पैनल डिबग करें"
 
-#: src/screens/Settings/AppearanceSettings.tsx:170
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Default"
 msgstr "डिफ़ॉल्‍ट"
 
@@ -2274,7 +2274,7 @@ msgstr "डायलॉग: चुनें कि इस पोस्ट से
 #~ msgid "Did you want to say anything?"
 #~ msgstr "क्या आप कुछ कहना चाहते थे?"
 
-#: src/screens/Settings/AppearanceSettings.tsx:133
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dim"
 msgstr "मंद"
 
@@ -3298,11 +3298,11 @@ msgstr "आपको फ़ॉलो करते हैं"
 msgid "Follows You"
 msgstr "आपको फ़ॉलो करते हैं"
 
-#: src/screens/Settings/AppearanceSettings.tsx:151
+#: src/screens/Settings/AppearanceSettings.tsx:155
 msgid "Font"
 msgstr "फ़ॉन्ट"
 
-#: src/screens/Settings/AppearanceSettings.tsx:162
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Font size"
 msgstr "फ़ॉन्ट आकार"
 
@@ -3323,7 +3323,7 @@ msgstr "सुरक्षा कारणों से, आप इसे फि
 #~ msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
 #~ msgstr "सुरक्षा कारणों के लिए, आप इसे फिर से देख नहीं सकेंगे। यदि आप इस पासवर्ड को खो देते हैं, तो आपको एक नया पासवर्ड उत्पन्न करना होगा।"
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:157
 msgid "For the best experience, we recommend using the theme font."
 msgstr "बहतरीन अनुभव के लिए, हम थीम फ़ॉन्ट का उपयोग करने की सलाह देते हैं।"
 
@@ -3957,7 +3957,7 @@ msgstr "भाषा सेटिंग"
 msgid "Languages"
 msgstr "भाषा"
 
-#: src/screens/Settings/AppearanceSettings.tsx:174
+#: src/screens/Settings/AppearanceSettings.tsx:178
 msgid "Larger"
 msgstr "बड़ा"
 
@@ -4061,7 +4061,7 @@ msgstr "चलो चलें!"
 #~ msgid "Library"
 #~ msgstr "चित्र पुस्तकालय"
 
-#: src/screens/Settings/AppearanceSettings.tsx:112
+#: src/screens/Settings/AppearanceSettings.tsx:116
 msgid "Light"
 msgstr "रोशन"
 
@@ -6266,7 +6266,7 @@ msgstr "होम पृष्ठ पर वापस जाता है"
 msgid "Returns to previous page"
 msgstr "पिछले पृष्ठ पर वापस जाता है"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
+#: src/screens/Settings/AppearanceSettings.tsx:96
 msgid "Sans serif"
 msgstr ""
 
@@ -7011,7 +7011,7 @@ msgstr "छोड़ें"
 msgid "Skip this flow"
 msgstr "इस फ़्लो को छोड़ें"
 
-#: src/screens/Settings/AppearanceSettings.tsx:166
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Smaller"
 msgstr "छोटा"
 
@@ -7236,8 +7236,8 @@ msgstr "खाते बदलें"
 #~ msgid "Switches the account you are logged in to"
 #~ msgstr "लॉग इन किए गए खाते को बदलता है"
 
-#: src/screens/Settings/AppearanceSettings.tsx:81
-#: src/screens/Settings/AppearanceSettings.tsx:108
+#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "System"
 msgstr "सिस्टम"
 
@@ -7473,7 +7473,7 @@ msgstr "सेवा की शर्तों को स्थानांत�
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "आपका दर्ज किया गया सत्यापन कोड अमान्य है। पक्का करें कि आपने सही  सत्यापन कोड का उपयोग किया या नए कोड का अनुरोध करें।"
 
-#: src/screens/Settings/AppearanceSettings.tsx:85
+#: src/screens/Settings/AppearanceSettings.tsx:89
 msgid "Theme"
 msgstr "थीम"
 
