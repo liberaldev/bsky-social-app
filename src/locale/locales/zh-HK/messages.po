@@ -177,7 +177,7 @@ msgstr "{badge} 條未讀"
 msgid "{count, plural, one {Liked by # user} other {Liked by # users}}"
 msgstr "{count, plural, one {有 # 人讚佢} other {有 # 人讚佢}}"
 
-#: src/view/shell/desktop/LeftNav.tsx:223
+#: src/view/shell/desktop/LeftNav.tsx:224
 msgid "{count} unread items"
 msgstr "{count} 條未讀"
 
@@ -375,7 +375,7 @@ msgstr "30 日"
 msgid "7 days"
 msgstr "7 日"
 
-#: src/Navigation.tsx:361
+#: src/Navigation.tsx:362
 #: src/screens/Settings/AboutSettings.tsx:24
 #: src/screens/Settings/Settings.tsx:207
 #: src/screens/Settings/Settings.tsx:210
@@ -383,7 +383,7 @@ msgid "About"
 msgstr "關於"
 
 #: src/view/com/util/ViewHeader.tsx:89
-#: src/view/screens/Search/Search.tsx:884
+#: src/view/screens/Search/Search.tsx:885
 msgid "Access navigation links and settings"
 msgstr "檢視導覽連結同設定"
 
@@ -397,11 +397,11 @@ msgstr "檢視個人檔案同其他導覽連結"
 msgid "Accessibility"
 msgstr "無障礙"
 
-#: src/Navigation.tsx:321
+#: src/Navigation.tsx:322
 msgid "Accessibility Settings"
 msgstr "無障礙設定"
 
-#: src/Navigation.tsx:337
+#: src/Navigation.tsx:338
 #: src/screens/Login/LoginForm.tsx:176
 #: src/screens/Settings/AccountSettings.tsx:41
 #: src/screens/Settings/Settings.tsx:145
@@ -770,6 +770,12 @@ msgstr "任何語言"
 msgid "Anybody can interact"
 msgstr "所有人都可以參與互動"
 
+#: src/Navigation.tsx:370
+#: src/screens/Settings/AppearanceSettings.tsx:188
+#: src/screens/Settings/AppearanceSettings.tsx:191
+msgid "App Icon"
+msgstr ""
+
 #: src/screens/Settings/LanguageSettings.tsx:72
 msgid "App Language"
 msgstr "App 語言"
@@ -799,7 +805,7 @@ msgstr "App 密碼嘅名稱必須至少有4個字元"
 msgid "App passwords"
 msgstr "App 密碼"
 
-#: src/Navigation.tsx:289
+#: src/Navigation.tsx:290
 #: src/screens/Settings/AppPasswords.tsx:47
 msgid "App Passwords"
 msgstr "App 密碼"
@@ -825,8 +831,8 @@ msgstr "上訴已經提交"
 msgid "Appeal this decision"
 msgstr "上訴呢個決定"
 
-#: src/Navigation.tsx:329
-#: src/screens/Settings/AppearanceSettings.tsx:76
+#: src/Navigation.tsx:330
+#: src/screens/Settings/AppearanceSettings.tsx:100
 #: src/screens/Settings/Settings.tsx:175
 #: src/screens/Settings/Settings.tsx:178
 msgid "Appearance"
@@ -999,7 +1005,7 @@ msgstr "已被封鎖"
 msgid "Blocked accounts"
 msgstr "封鎖咗嘅帳號"
 
-#: src/Navigation.tsx:153
+#: src/Navigation.tsx:154
 #: src/view/screens/ModerationBlockedAccounts.tsx:108
 msgid "Blocked Accounts"
 msgstr "封鎖咗嘅帳號"
@@ -1139,6 +1145,7 @@ msgstr "相機"
 #: src/screens/Deactivated.tsx:164
 #: src/screens/Profile/Header/EditProfileDialog.tsx:220
 #: src/screens/Profile/Header/EditProfileDialog.tsx:228
+#: src/screens/Settings/AppIconSettings.tsx:77
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:72
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:79
 #: src/screens/Settings/Settings.tsx:252
@@ -1157,7 +1164,7 @@ msgstr "相機"
 #: src/view/com/modals/VerifyEmail.tsx:255
 #: src/view/com/modals/VerifyEmail.tsx:261
 #: src/view/com/util/post-ctrls/RepostButton.tsx:203
-#: src/view/screens/Search/Search.tsx:912
+#: src/view/screens/Search/Search.tsx:913
 msgid "Cancel"
 msgstr "咪喇"
 
@@ -1190,7 +1197,7 @@ msgid "Cancel reactivation and log out"
 msgstr "取消重新啓動兼登出"
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:88
-#: src/view/screens/Search/Search.tsx:904
+#: src/view/screens/Search/Search.tsx:905
 msgid "Cancel search"
 msgstr "唔再搵嘢"
 
@@ -1217,6 +1224,10 @@ msgstr "字幕同 ALT 文字"
 #: src/view/com/modals/VerifyEmail.tsx:160
 msgid "Change"
 msgstr "變更"
+
+#: src/screens/Settings/AppIconSettings.tsx:73
+msgid "Change app icon to \"{0}\""
+msgstr ""
 
 #: src/screens/Settings/AccountSettings.tsx:89
 #: src/screens/Settings/AccountSettings.tsx:93
@@ -1253,9 +1264,9 @@ msgstr "變更你嘅電郵"
 msgid "Change your email address"
 msgstr "變更你嘅電郵地址"
 
-#: src/Navigation.tsx:373
+#: src/Navigation.tsx:382
 #: src/view/shell/bottom-bar/BottomBar.tsx:200
-#: src/view/shell/desktop/LeftNav.tsx:348
+#: src/view/shell/desktop/LeftNav.tsx:349
 #: src/view/shell/Drawer.tsx:417
 msgid "Chat"
 msgstr "傾偈室"
@@ -1266,7 +1277,7 @@ msgstr "傾偈室已靜音"
 
 #: src/components/dms/ConvoMenu.tsx:112
 #: src/components/dms/MessageMenu.tsx:81
-#: src/Navigation.tsx:378
+#: src/Navigation.tsx:387
 #: src/screens/Messages/ChatList.tsx:88
 msgid "Chat settings"
 msgstr "傾偈室設定"
@@ -1447,7 +1458,7 @@ msgstr "收合用戶清單"
 msgid "Collapses list of users for a given notification"
 msgstr "收合特定通知嘅使用者清單"
 
-#: src/screens/Settings/AppearanceSettings.tsx:80
+#: src/screens/Settings/AppearanceSettings.tsx:104
 msgid "Color mode"
 msgstr "顏色模式"
 
@@ -1461,7 +1472,7 @@ msgstr "喜劇"
 msgid "Comics"
 msgstr "漫畫"
 
-#: src/Navigation.tsx:279
+#: src/Navigation.tsx:280
 #: src/view/screens/CommunityGuidelines.tsx:34
 msgid "Community Guidelines"
 msgstr "社群守則"
@@ -1474,7 +1485,7 @@ msgstr "攪掂入門指導跟住開始使用你嘅帳號"
 msgid "Complete the challenge"
 msgstr "完成呢個挑戰"
 
-#: src/view/shell/desktop/LeftNav.tsx:314
+#: src/view/shell/desktop/LeftNav.tsx:315
 msgid "Compose new post"
 msgstr "寫新帖文"
 
@@ -1561,7 +1572,7 @@ msgstr "聯絡支援"
 msgid "Content and media"
 msgstr "內容同媒體"
 
-#: src/Navigation.tsx:353
+#: src/Navigation.tsx:354
 #: src/screens/Settings/ContentAndMediaSettings.tsx:35
 msgid "Content and Media"
 msgstr "內容同媒體"
@@ -1574,7 +1585,7 @@ msgstr "內容俾封鎖"
 msgid "Content filters"
 msgstr "內容篩選器"
 
-#: src/screens/Settings/LanguageSettings.tsx:241
+#: src/screens/Settings/LanguageSettings.tsx:243
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:75
 msgid "Content Languages"
 msgstr "內容語言"
@@ -1707,7 +1718,7 @@ msgstr "複製 QR code"
 msgid "Copy TXT record value"
 msgstr "複製 TXT 種類值"
 
-#: src/Navigation.tsx:284
+#: src/Navigation.tsx:285
 #: src/view/screens/CopyrightPolicy.tsx:31
 msgid "Copyright Policy"
 msgstr "版權政策"
@@ -1742,7 +1753,7 @@ msgstr "爲新手包建立 QR Code"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:168
 #: src/components/StarterPack/ProfileStarterPacks.tsx:271
-#: src/Navigation.tsx:403
+#: src/Navigation.tsx:412
 msgid "Create a starter pack"
 msgstr "建立一個新手包"
 
@@ -1804,8 +1815,8 @@ msgstr "由社群建立嘅自訂動態源會爲你帶嚟新嘅體驗，同埋幫
 msgid "Customize who can interact with this post."
 msgstr "自訂邊個可以喺呢篇帖文度互動。"
 
-#: src/screens/Settings/AppearanceSettings.tsx:92
-#: src/screens/Settings/AppearanceSettings.tsx:113
+#: src/screens/Settings/AppearanceSettings.tsx:116
+#: src/screens/Settings/AppearanceSettings.tsx:137
 msgid "Dark"
 msgstr "深色"
 
@@ -1813,7 +1824,7 @@ msgstr "深色"
 msgid "Dark mode"
 msgstr "深色模式"
 
-#: src/screens/Settings/AppearanceSettings.tsx:105
+#: src/screens/Settings/AppearanceSettings.tsx:129
 msgid "Dark theme"
 msgstr "深色主題"
 
@@ -1835,7 +1846,7 @@ msgstr "調試審核"
 msgid "Debug panel"
 msgstr "調試面板"
 
-#: src/screens/Settings/AppearanceSettings.tsx:153
+#: src/screens/Settings/AppearanceSettings.tsx:170
 msgid "Default"
 msgstr "預設"
 
@@ -1965,7 +1976,7 @@ msgstr "開發人員選項"
 msgid "Dialog: adjust who can interact with this post"
 msgstr "對話框：調整邊個可以喺呢篇帖文度互動"
 
-#: src/screens/Settings/AppearanceSettings.tsx:109
+#: src/screens/Settings/AppearanceSettings.tsx:133
 msgid "Dim"
 msgstr "暗淡"
 
@@ -2223,7 +2234,7 @@ msgstr "編輯清單詳情"
 msgid "Edit Moderation List"
 msgstr "編輯審核清單"
 
-#: src/Navigation.tsx:294
+#: src/Navigation.tsx:295
 #: src/view/screens/Feeds.tsx:384
 #: src/view/screens/Feeds.tsx:452
 #: src/view/screens/SavedFeeds.tsx:116
@@ -2275,7 +2286,7 @@ msgstr "編輯你嘅名稱"
 msgid "Edit your profile description"
 msgstr "編輯你嘅描述"
 
-#: src/Navigation.tsx:408
+#: src/Navigation.tsx:417
 msgid "Edit your starter pack"
 msgstr "編輯你嘅新手包"
 
@@ -2580,7 +2591,7 @@ msgstr "外部媒體"
 msgid "External media may allow websites to collect information about you and your device. No information is sent or requested until you press the \"play\" button."
 msgstr "外部媒體可能會畀網站收集有關你同你部裝置嘅資料。喺你撳「播放」掣之前，系統唔會傳送抑或請求任何資料。"
 
-#: src/Navigation.tsx:313
+#: src/Navigation.tsx:314
 #: src/screens/Settings/ExternalMediaPreferences.tsx:29
 msgid "External Media Preferences"
 msgstr "外部媒體設定"
@@ -2680,7 +2691,7 @@ msgstr "上載唔到影片"
 msgid "Failed to verify handle. Please try again."
 msgstr "驗證唔到帳號頭銜，唔該試多一次。"
 
-#: src/Navigation.tsx:229
+#: src/Navigation.tsx:230
 msgid "Feed"
 msgstr "動態源"
 
@@ -2703,13 +2714,13 @@ msgstr "反饋"
 msgid "Feedback sent!"
 msgstr "反饋已經傳送咗！"
 
-#: src/Navigation.tsx:388
+#: src/Navigation.tsx:397
 #: src/screens/StarterPack/StarterPackScreen.tsx:183
 #: src/view/screens/Feeds.tsx:446
 #: src/view/screens/Feeds.tsx:552
 #: src/view/screens/Profile.tsx:232
-#: src/view/screens/Search/Search.tsx:537
-#: src/view/shell/desktop/LeftNav.tsx:457
+#: src/view/screens/Search/Search.tsx:538
+#: src/view/shell/desktop/LeftNav.tsx:458
 #: src/view/shell/Drawer.tsx:476
 msgid "Feeds"
 msgstr "動態源"
@@ -2741,7 +2752,7 @@ msgstr "幫緊你幫緊你"
 msgid "Find accounts to follow"
 msgstr "搵帳號嚟跟蹤"
 
-#: src/view/screens/Search/Search.tsx:612
+#: src/view/screens/Search/Search.tsx:613
 msgid "Find posts and users on Bluesky"
 msgstr "喺 Bluesky 上面搵帖文同用戶"
 
@@ -2833,7 +2844,7 @@ msgstr "跟咗嘅用戶"
 msgid "Followers"
 msgstr "擁躉"
 
-#: src/Navigation.tsx:190
+#: src/Navigation.tsx:191
 msgid "Followers of @{0} that you know"
 msgstr "你識嘅 @{0} 亦都跟咗佢"
 
@@ -2869,7 +2880,7 @@ msgstr "跟緊 {name}"
 msgid "Following feed preferences"
 msgstr "「Following」動態源設定"
 
-#: src/Navigation.tsx:300
+#: src/Navigation.tsx:301
 #: src/screens/Settings/FollowingFeedPreferences.tsx:49
 msgid "Following Feed Preferences"
 msgstr "「Following」動態源設定"
@@ -2882,11 +2893,11 @@ msgstr "跟緊你"
 msgid "Follows You"
 msgstr "跟緊你"
 
-#: src/screens/Settings/AppearanceSettings.tsx:125
+#: src/screens/Settings/AppearanceSettings.tsx:151
 msgid "Font"
 msgstr "字型"
 
-#: src/screens/Settings/AppearanceSettings.tsx:145
+#: src/screens/Settings/AppearanceSettings.tsx:162
 msgid "Font size"
 msgstr "字型大細"
 
@@ -2903,7 +2914,7 @@ msgstr "爲咗安全起見，我哋需要將確認碼傳送去你嘅電郵地址
 msgid "For security reasons, you won't be able to view this again. If you lose this app password, you'll need to generate a new one."
 msgstr "爲咗安全起見，你唔可以再睇返呢個密碼。若然你唔見咗呢個密碼，你就要去生成一個新嘅密碼。"
 
-#: src/screens/Settings/AppearanceSettings.tsx:127
+#: src/screens/Settings/AppearanceSettings.tsx:153
 msgid "For the best experience, we recommend using the theme font."
 msgstr "爲咗你得到最佳體驗，我哋建議使用主題字型。"
 
@@ -3069,7 +3080,7 @@ msgstr "觸覺"
 msgid "Harassment, trolling, or intolerance"
 msgstr "騷擾、惡搞抑或其他唔容忍嘅行爲"
 
-#: src/Navigation.tsx:368
+#: src/Navigation.tsx:377
 msgid "Hashtag"
 msgstr "標籤"
 
@@ -3181,10 +3192,10 @@ msgstr "唔好意思，我哋撈唔到嗰個審核服務。"
 msgid "Hold up! We’re gradually giving access to video, and you’re still waiting in line. Check back soon!"
 msgstr "幫緊你幫緊你！我哋而家逐步開放影片權限，而你仲喺等候名單嗰度。遲啲睇吓啦！"
 
-#: src/Navigation.tsx:579
-#: src/Navigation.tsx:599
+#: src/Navigation.tsx:588
+#: src/Navigation.tsx:608
 #: src/view/shell/bottom-bar/BottomBar.tsx:158
-#: src/view/shell/desktop/LeftNav.tsx:401
+#: src/view/shell/desktop/LeftNav.tsx:402
 #: src/view/shell/Drawer.tsx:391
 msgid "Home"
 msgstr "首頁"
@@ -3445,7 +3456,7 @@ msgstr "你嘅內容上面嘅標籤"
 msgid "Language selection"
 msgstr "語言揀"
 
-#: src/Navigation.tsx:163
+#: src/Navigation.tsx:164
 msgid "Language Settings"
 msgstr "語言設定"
 
@@ -3455,12 +3466,12 @@ msgstr "語言設定"
 msgid "Languages"
 msgstr "語言"
 
-#: src/screens/Settings/AppearanceSettings.tsx:157
+#: src/screens/Settings/AppearanceSettings.tsx:174
 msgid "Larger"
 msgstr "大啲"
 
 #: src/screens/Hashtag.tsx:98
-#: src/view/screens/Search/Search.tsx:521
+#: src/view/screens/Search/Search.tsx:522
 msgid "Latest"
 msgstr "最近"
 
@@ -3542,7 +3553,7 @@ msgstr "我哋重設你嘅密碼啦！"
 msgid "Let's go!"
 msgstr "行啦我哋！"
 
-#: src/screens/Settings/AppearanceSettings.tsx:88
+#: src/screens/Settings/AppearanceSettings.tsx:112
 msgid "Light"
 msgstr "淺色"
 
@@ -3561,8 +3572,8 @@ msgid "Like this feed"
 msgstr "讚好呢個動態源"
 
 #: src/components/LikesDialog.tsx:85
-#: src/Navigation.tsx:234
-#: src/Navigation.tsx:239
+#: src/Navigation.tsx:235
+#: src/Navigation.tsx:240
 msgid "Liked by"
 msgstr "讚過"
 
@@ -3581,7 +3592,7 @@ msgstr "讚好"
 msgid "Likes on this post"
 msgstr "讚好呢篇帖文"
 
-#: src/Navigation.tsx:196
+#: src/Navigation.tsx:197
 msgid "List"
 msgstr "清單"
 
@@ -3626,10 +3637,10 @@ msgstr "清單已經解除封鎖"
 msgid "List unmuted"
 msgstr "清單已經取消靜音"
 
-#: src/Navigation.tsx:133
+#: src/Navigation.tsx:134
 #: src/view/screens/Profile.tsx:227
 #: src/view/screens/Profile.tsx:234
-#: src/view/shell/desktop/LeftNav.tsx:475
+#: src/view/shell/desktop/LeftNav.tsx:476
 #: src/view/shell/Drawer.tsx:491
 msgid "Lists"
 msgstr "清單"
@@ -3665,7 +3676,7 @@ msgstr "撈吓新嘅帖文"
 msgid "Loading..."
 msgstr "撈緊..."
 
-#: src/Navigation.tsx:259
+#: src/Navigation.tsx:260
 msgid "Log"
 msgstr "日誌"
 
@@ -3757,7 +3768,7 @@ msgstr "提到嘅用戶"
 
 #: src/components/Menu/index.tsx:95
 #: src/view/com/util/ViewHeader.tsx:87
-#: src/view/screens/Search/Search.tsx:883
+#: src/view/screens/Search/Search.tsx:884
 msgid "Menu"
 msgstr "菜單"
 
@@ -3787,7 +3798,7 @@ msgstr "訊息太長"
 msgid "Message settings"
 msgstr "訊息設定"
 
-#: src/Navigation.tsx:594
+#: src/Navigation.tsx:603
 #: src/screens/Messages/ChatList.tsx:162
 #: src/screens/Messages/ChatList.tsx:243
 #: src/screens/Messages/ChatList.tsx:314
@@ -3802,7 +3813,7 @@ msgstr "誤導性帳號"
 msgid "Misleading Post"
 msgstr "誤導性帖文"
 
-#: src/Navigation.tsx:138
+#: src/Navigation.tsx:139
 #: src/screens/Moderation/index.tsx:101
 #: src/screens/Settings/Settings.tsx:159
 #: src/screens/Settings/Settings.tsx:162
@@ -3839,7 +3850,7 @@ msgstr "審核清單更新咗喇"
 msgid "Moderation lists"
 msgstr "審核清單"
 
-#: src/Navigation.tsx:143
+#: src/Navigation.tsx:144
 #: src/view/screens/ModerationModlists.tsx:72
 msgid "Moderation Lists"
 msgstr "審核清單"
@@ -3848,7 +3859,7 @@ msgstr "審核清單"
 msgid "moderation settings"
 msgstr "審核設定"
 
-#: src/Navigation.tsx:249
+#: src/Navigation.tsx:250
 msgid "Moderation states"
 msgstr "審核狀態"
 
@@ -3972,7 +3983,7 @@ msgstr "靜音字詞同標籤"
 msgid "Muted accounts"
 msgstr "靜音咗嘅帳號"
 
-#: src/Navigation.tsx:148
+#: src/Navigation.tsx:149
 #: src/view/screens/ModerationMutedAccounts.tsx:108
 msgid "Muted Accounts"
 msgstr "靜音咗嘅帳號"
@@ -4107,7 +4118,7 @@ msgstr "新帖文"
 msgid "New post"
 msgstr "新帖文"
 
-#: src/view/shell/desktop/LeftNav.tsx:322
+#: src/view/shell/desktop/LeftNav.tsx:323
 msgctxt "action"
 msgid "New Post"
 msgstr "新帖文"
@@ -4280,7 +4291,7 @@ msgstr "冇人搵到，試下搵其他人。"
 msgid "Non-sexual Nudity"
 msgstr "非性裸體"
 
-#: src/Navigation.tsx:128
+#: src/Navigation.tsx:129
 #: src/view/screens/Profile.tsx:128
 msgid "Not Found"
 msgstr "搵唔到"
@@ -4308,7 +4319,7 @@ msgstr "呢度乜都冇"
 msgid "Notification filters"
 msgstr "通知篩選器"
 
-#: src/Navigation.tsx:383
+#: src/Navigation.tsx:392
 #: src/view/screens/Notifications.tsx:117
 msgid "Notification settings"
 msgstr "通知設定"
@@ -4325,12 +4336,12 @@ msgstr "通知聲"
 msgid "Notification Sounds"
 msgstr "通知聲"
 
-#: src/Navigation.tsx:589
+#: src/Navigation.tsx:598
 #: src/view/screens/Notifications.tsx:143
 #: src/view/screens/Notifications.tsx:153
 #: src/view/screens/Notifications.tsx:199
 #: src/view/shell/bottom-bar/BottomBar.tsx:226
-#: src/view/shell/desktop/LeftNav.tsx:438
+#: src/view/shell/desktop/LeftNav.tsx:439
 #: src/view/shell/Drawer.tsx:444
 msgid "Notifications"
 msgstr "通知"
@@ -4366,6 +4377,7 @@ msgid "Oh no! Something went wrong."
 msgstr "哎吔！有啲嘢出錯咗。"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:347
+#: src/screens/Settings/AppIconSettings.tsx:81
 msgid "OK"
 msgstr "好嘅"
 
@@ -4651,15 +4663,15 @@ msgid "Pause video"
 msgstr "暫停影片"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:182
-#: src/view/screens/Search/Search.tsx:531
+#: src/view/screens/Search/Search.tsx:532
 msgid "People"
 msgstr "用戶"
 
-#: src/Navigation.tsx:183
+#: src/Navigation.tsx:184
 msgid "People followed by @{0}"
 msgstr "俾 @{0} 跟咗嘅人"
 
-#: src/Navigation.tsx:176
+#: src/Navigation.tsx:177
 msgid "People following @{0}"
 msgstr "跟住 @{0} 嘅人"
 
@@ -4825,10 +4837,10 @@ msgstr "發晒佢哋"
 msgid "Post by {0}"
 msgstr "由 {0} 發表"
 
-#: src/Navigation.tsx:202
-#: src/Navigation.tsx:209
-#: src/Navigation.tsx:216
-#: src/Navigation.tsx:223
+#: src/Navigation.tsx:203
+#: src/Navigation.tsx:210
+#: src/Navigation.tsx:217
+#: src/Navigation.tsx:224
 msgid "Post by @{0}"
 msgstr "由 @{0} 發表"
 
@@ -4927,7 +4939,7 @@ msgstr "撳呢度睇吓有邊啲你識嘅人跟咗呢個帳號"
 msgid "Previous image"
 msgstr "上一張圖片"
 
-#: src/screens/Settings/LanguageSettings.tsx:158
+#: src/screens/Settings/LanguageSettings.tsx:159
 msgid "Primary Language"
 msgstr "首選語言"
 
@@ -4949,12 +4961,12 @@ msgstr "私隱"
 msgid "Privacy and security"
 msgstr "私隱同安全"
 
-#: src/Navigation.tsx:345
+#: src/Navigation.tsx:346
 #: src/screens/Settings/PrivacyAndSecuritySettings.tsx:32
 msgid "Privacy and Security"
 msgstr "私隱同安全"
 
-#: src/Navigation.tsx:269
+#: src/Navigation.tsx:270
 #: src/screens/Settings/AboutSettings.tsx:37
 #: src/screens/Settings/AboutSettings.tsx:40
 #: src/view/screens/PrivacyPolicy.tsx:31
@@ -4978,7 +4990,7 @@ msgid "profile"
 msgstr "個人檔案"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:271
-#: src/view/shell/desktop/LeftNav.tsx:493
+#: src/view/shell/desktop/LeftNav.tsx:494
 #: src/view/shell/Drawer.tsx:71
 #: src/view/shell/Drawer.tsx:516
 msgid "Profile"
@@ -5088,7 +5100,7 @@ msgstr "睇吓 Bluesky 服務條款"
 msgid "Reason:"
 msgstr "原因："
 
-#: src/view/screens/Search/Search.tsx:1058
+#: src/view/screens/Search/Search.tsx:1059
 msgid "Recent Searches"
 msgstr "近排嘅搵嘢結果"
 
@@ -5181,11 +5193,11 @@ msgstr "移除圖片"
 msgid "Remove mute word from your list"
 msgstr "喺你嘅清單入邊移除靜音字詞"
 
-#: src/view/screens/Search/Search.tsx:1102
+#: src/view/screens/Search/Search.tsx:1103
 msgid "Remove profile"
 msgstr "移除個人檔案"
 
-#: src/view/screens/Search/Search.tsx:1104
+#: src/view/screens/Search/Search.tsx:1105
 msgid "Remove profile from search history"
 msgstr "喺搵嘢記錄入邊移除個人檔案"
 
@@ -5524,6 +5536,10 @@ msgstr "返去首頁"
 msgid "Returns to previous page"
 msgstr "返去上一頁"
 
+#: src/screens/Settings/AppearanceSettings.tsx:92
+msgid "Sans serif"
+msgstr ""
+
 #: src/components/dialogs/BirthDateSettings.tsx:124
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:438
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:444
@@ -5543,7 +5559,7 @@ msgstr "返去上一頁"
 msgid "Save"
 msgstr "儲存"
 
-#: src/view/com/lightbox/ImageViewing/index.tsx:576
+#: src/view/com/lightbox/ImageViewing/index.tsx:591
 #: src/view/com/modals/CreateOrEditList.tsx:325
 msgctxt "action"
 msgid "Save"
@@ -5624,11 +5640,11 @@ msgstr "捲動去頂部"
 #: src/components/dms/dialogs/SearchablePeopleList.tsx:484
 #: src/components/forms/SearchInput.tsx:34
 #: src/components/forms/SearchInput.tsx:36
-#: src/Navigation.tsx:584
+#: src/Navigation.tsx:593
 #: src/view/com/modals/ListAddRemoveUsers.tsx:76
-#: src/view/screens/Search/Search.tsx:594
+#: src/view/screens/Search/Search.tsx:595
 #: src/view/shell/bottom-bar/BottomBar.tsx:178
-#: src/view/shell/desktop/LeftNav.tsx:419
+#: src/view/shell/desktop/LeftNav.tsx:420
 #: src/view/shell/Drawer.tsx:365
 msgid "Search"
 msgstr "搵嘢"
@@ -5637,7 +5653,7 @@ msgstr "搵嘢"
 msgid "Search for \"{query}\""
 msgstr "搵「{query}」"
 
-#: src/view/screens/Search/Search.tsx:1001
+#: src/view/screens/Search/Search.tsx:1002
 msgid "Search for \"{searchText}\""
 msgstr "搵「{searchText}」"
 
@@ -5710,7 +5726,7 @@ msgstr "揀個頭像"
 msgid "Select an emoji"
 msgstr "揀個表情符號"
 
-#: src/screens/Settings/LanguageSettings.tsx:252
+#: src/screens/Settings/LanguageSettings.tsx:254
 msgid "Select content languages"
 msgstr "揀內容語言"
 
@@ -5734,7 +5750,7 @@ msgstr "揀將呢個字詞靜音幾耐。"
 msgid "Select language..."
 msgstr "揀語言..."
 
-#: src/screens/Settings/LanguageSettings.tsx:266
+#: src/screens/Settings/LanguageSettings.tsx:268
 msgid "Select languages"
 msgstr "揀語言"
 
@@ -5766,7 +5782,7 @@ msgstr "揀影片"
 msgid "Select what content this mute word should apply to."
 msgstr "揀呢個靜音字詞應該適用喺邊啲內容。"
 
-#: src/screens/Settings/LanguageSettings.tsx:245
+#: src/screens/Settings/LanguageSettings.tsx:247
 msgid "Select which languages you want your subscribed feeds to include. If none are selected, all languages will be shown."
 msgstr "揀吓邊啲語言你想喺你訂閱嘅動態源度出現。唔揀嘅話，就會顯示所有語言。"
 
@@ -5782,7 +5798,7 @@ msgstr "揀吓你個出世日期"
 msgid "Select your interests from the options below"
 msgstr "喺下面嘅選項入邊揀你嘅興趣"
 
-#: src/screens/Settings/LanguageSettings.tsx:162
+#: src/screens/Settings/LanguageSettings.tsx:163
 msgid "Select your preferred language for translations in your feed."
 msgstr "揀選你發嘢用嘅語言。"
 
@@ -5870,9 +5886,9 @@ msgstr "設定你嘅帳號"
 msgid "Sets email for password reset"
 msgstr "設定電郵嚟重設密碼"
 
-#: src/Navigation.tsx:158
+#: src/Navigation.tsx:159
 #: src/screens/Settings/Settings.tsx:76
-#: src/view/shell/desktop/LeftNav.tsx:511
+#: src/view/shell/desktop/LeftNav.tsx:512
 #: src/view/shell/Drawer.tsx:529
 msgid "Settings"
 msgstr "設定"
@@ -5897,7 +5913,7 @@ msgstr "性暗示"
 msgid "Share"
 msgstr "分享"
 
-#: src/view/com/lightbox/ImageViewing/index.tsx:585
+#: src/view/com/lightbox/ImageViewing/index.tsx:600
 msgctxt "action"
 msgid "Share"
 msgstr "分享"
@@ -5953,7 +5969,7 @@ msgstr "分享呢個新手包，幫啲人加入你嘅 Bluesky 社群。"
 msgid "Share your favorite feed!"
 msgstr "分享你最鍾意嘅動態源！"
 
-#: src/Navigation.tsx:254
+#: src/Navigation.tsx:255
 msgid "Shared Preferences Tester"
 msgstr "共用設定測試器"
 
@@ -6153,7 +6169,7 @@ msgstr "跳過"
 msgid "Skip this flow"
 msgstr "跳過呢個流程"
 
-#: src/screens/Settings/AppearanceSettings.tsx:149
+#: src/screens/Settings/AppearanceSettings.tsx:166
 msgid "Smaller"
 msgstr "細啲"
 
@@ -6190,7 +6206,7 @@ msgstr "有啲嘢出錯，唔該試多一次。"
 msgid "Something went wrong!"
 msgstr "有啲嘢出錯！"
 
-#: src/App.native.tsx:113
+#: src/App.native.tsx:118
 #: src/App.web.tsx:94
 msgid "Sorry! Your session expired. Please log in again."
 msgstr "對唔住！你嘅登入已經過期，請試下再登入。"
@@ -6233,8 +6249,8 @@ msgstr "開始新嘅傾偈室"
 msgid "Start chat with {displayName}"
 msgstr "開始同 {displayName} 傾偈"
 
-#: src/Navigation.tsx:393
-#: src/Navigation.tsx:398
+#: src/Navigation.tsx:402
+#: src/Navigation.tsx:407
 #: src/screens/StarterPack/Wizard/index.tsx:188
 msgid "Starter Pack"
 msgstr "新手包"
@@ -6272,7 +6288,7 @@ msgstr "第 {0} 步（共 {1} 步）"
 msgid "Storage cleared, you need to restart the app now."
 msgstr "儲存空間已經清除，你而家需要重新啟動 App。"
 
-#: src/Navigation.tsx:244
+#: src/Navigation.tsx:245
 #: src/screens/Settings/Settings.tsx:316
 msgid "Storybook"
 msgstr "故事書"
@@ -6321,7 +6337,7 @@ msgstr "估你心水"
 msgid "Suggestive"
 msgstr "性暗示"
 
-#: src/Navigation.tsx:264
+#: src/Navigation.tsx:265
 #: src/view/screens/Support.tsx:31
 #: src/view/screens/Support.tsx:34
 msgid "Support"
@@ -6338,8 +6354,8 @@ msgstr "切換帳號"
 msgid "Switch Account"
 msgstr "切換帳號"
 
-#: src/screens/Settings/AppearanceSettings.tsx:84
-#: src/screens/Settings/AppearanceSettings.tsx:132
+#: src/screens/Settings/AppearanceSettings.tsx:81
+#: src/screens/Settings/AppearanceSettings.tsx:108
 msgid "System"
 msgstr "系統"
 
@@ -6356,6 +6372,11 @@ msgstr "標籤選單：{displayTag}"
 #: src/components/dialogs/MutedWords.tsx:282
 msgid "Tags only"
 msgstr "只限標籤"
+
+#: src/screens/Settings/AppIconSettings.tsx:34
+#: src/screens/Settings/AppIconSettings.tsx:68
+msgid "Tap to change app icon"
+msgstr ""
 
 #: src/components/ProgressGuide/Toast.tsx:156
 msgid "Tap to dismiss"
@@ -6407,7 +6428,7 @@ msgstr "講多少少畀我哋聽"
 msgid "Terms"
 msgstr "條款"
 
-#: src/Navigation.tsx:274
+#: src/Navigation.tsx:275
 #: src/screens/Settings/AboutSettings.tsx:29
 #: src/screens/Settings/AboutSettings.tsx:32
 #: src/view/screens/TermsOfService.tsx:31
@@ -6470,6 +6491,10 @@ msgstr "就噉先！"
 #: src/view/com/profile/ProfileMenu.tsx:329
 msgid "The account will be able to interact with you after unblocking."
 msgstr "呢個帳號喺解除封鎖之後就可以同你互動。"
+
+#: src/screens/Settings/AppIconSettings.tsx:74
+msgid "The app will be restarted"
+msgstr ""
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:117
 #: src/lib/moderation/useModerationCauseDescription.ts:126
@@ -6550,7 +6575,7 @@ msgstr "服務條款已經移至"
 msgid "The verification code you have provided is invalid. Please make sure that you have used the correct verification link or request a new one."
 msgstr "你提供嘅驗證碼無效。請確保你用咗正確嘅驗證連結，抑或要求新嘅驗證連結。"
 
-#: src/screens/Settings/AppearanceSettings.tsx:136
+#: src/screens/Settings/AppearanceSettings.tsx:85
 msgid "Theme"
 msgstr "主題"
 
@@ -6872,7 +6897,7 @@ msgstr "討論串設定"
 msgid "Threaded mode"
 msgstr "樹狀視圖模式"
 
-#: src/Navigation.tsx:307
+#: src/Navigation.tsx:308
 msgid "Threads Preferences"
 msgstr "討論串設定"
 
@@ -6909,7 +6934,7 @@ msgid "Toggle to enable or disable adult content"
 msgstr "切換嚟啓用抑或停用成人內容"
 
 #: src/screens/Hashtag.tsx:87
-#: src/view/screens/Search/Search.tsx:511
+#: src/view/screens/Search/Search.tsx:512
 msgid "Top"
 msgstr "TOP"
 

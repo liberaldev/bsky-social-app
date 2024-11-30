@@ -37,7 +37,10 @@ export function setFontFamily(fontFamily: Device['fontFamily']) {
 /*
  * Unused fonts are commented out, but the files are there if we need them.
  */
-export function applyFonts(style: TextStyle, fontFamily: 'system' | 'theme') {
+export function applyFonts(
+  style: TextStyle,
+  fontFamily: 'system' | 'sans-serif' | 'theme',
+) {
   if (fontFamily === 'theme') {
     if (isAndroid) {
       style.fontFamily =
@@ -81,6 +84,12 @@ export function applyFonts(style: TextStyle, fontFamily: 'system' | 'theme') {
      * {@link https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant}
      */
     style.fontVariant = (style.fontVariant || []).concat('no-contextual')
+  } else if (fontFamily === 'sans-serif') {
+    if (isWeb) {
+      style.fontFamily = style.fontFamily || `sans-serif`
+    }
+
+    style.letterSpacing = 0.25
   } else {
     // fallback families only supported on web
     if (isWeb) {

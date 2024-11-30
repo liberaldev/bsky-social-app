@@ -32,7 +32,6 @@ export function AppearanceSettingsScreen({}: Props) {
 
   const {colorMode, darkTheme} = useThemePrefs()
   const {setColorMode, setDarkTheme} = useSetThemePrefs()
-
   const onChangeAppearance = useCallback(
     (keys: string[]) => {
       const appearance = keys.find(key => key !== colorMode) as
@@ -60,7 +59,12 @@ export function AppearanceSettingsScreen({}: Props) {
 
   const onChangeFontFamily = useCallback(
     (values: string[]) => {
-      const next = values[0] === 'system' ? 'system' : 'theme'
+      const next =
+        values[0] === 'system'
+          ? 'system'
+          : values[0] === 'sans-serif'
+          ? 'sans-serif'
+          : 'theme'
       fonts.setFontFamily(next)
     },
     [fonts],
@@ -75,6 +79,24 @@ export function AppearanceSettingsScreen({}: Props) {
   )
 
   const {currentAccount} = useSession()
+
+  const fontFamilyItems = [
+    {
+      label: _(msg`System`),
+      name: 'system',
+    },
+    {
+      label: _(msg`Theme`),
+      name: 'theme',
+    },
+  ]
+
+  if (!isNative) {
+    fontFamilyItems.splice(1, 0, {
+      label: _(msg`Sans serif`),
+      name: 'sans-serif',
+    })
+  }
 
   return (
     <LayoutAnimationConfig skipExiting skipEntering>
@@ -135,16 +157,7 @@ export function AppearanceSettingsScreen({}: Props) {
                   msg`For the best experience, we recommend using the theme font.`,
                 )}
                 icon={Aa}
-                items={[
-                  {
-                    label: _(msg`System`),
-                    name: 'system',
-                  },
-                  {
-                    label: _(msg`Theme`),
-                    name: 'theme',
-                  },
-                ]}
+                items={fontFamilyItems}
                 values={[fonts.family]}
                 onChange={onChangeFontFamily}
               />
